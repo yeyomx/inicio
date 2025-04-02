@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title> soltv | Live Streaming </title>
+    <title>auroramedia</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -248,7 +248,7 @@
             setInterval(function () {
                 $.ajax({
                     type: 'GET',
-                    url: 'http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/60.m3u8',
+                    url: 'http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/54.m3u8',
                     success: function (data) {
                         let viewer = data.viewers;
                         $('.viewer_count').html(" " + viewer);
@@ -260,6 +260,5 @@
     </script>
 </body>
 </html>
-
 
 

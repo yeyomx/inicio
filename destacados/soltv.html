@@ -248,7 +248,7 @@
             setInterval(function () {
                 $.ajax({
                     type: 'GET',
-                    url: 'https://cdn.streamhispanatv.net/broadcaster/ajax-get-current-viewer/soltv',
+                    url: 'http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/60.m3u8',
                     success: function (data) {
                         let viewer = data.viewers;
                         $('.viewer_count').html(" " + viewer);

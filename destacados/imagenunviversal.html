@@ -77,6 +77,18 @@ setInterval (contador,30000);
 	!function(){var e,t={file:"watermark.png",xpos:0,ypos:0,xrepeat:0,opacity:100,clickable:!1,url:"",className:"vjs-watermark",text:!1,debug:!1},o=function(){var e,t,l,a,i;for(l in t=(e=Array.prototype.slice.call(arguments)).shift()||{},e)for(i in a=e[l])a.hasOwnProperty(i)&&("object"==typeof a[i]?t[i]=o(t[i],a[i]):t[i]=a[i]);return t};videojs.plugin("watermark",function(l){var a,i,s,r,p;l.debug&&console.log("watermark: Register init"),a=o(t,l),i=this.el(),s=this.el().getElementsByTagName("video")[0],e?e.innerHTML="":(e=document.createElement("div")).className=a.className,a.text&&(e.textContent=a.text),a.file&&(r=document.createElement("img"),e.appendChild(r),r.src=a.file),0===a.ypos&&0===a.xpos?(e.style.top="0",e.style.left="0"):0===a.ypos&&100===a.xpos?(e.style.top="0",e.style.right="0"):100===a.ypos&&100===a.xpos?(e.style.bottom="45",e.style.right="0"):100===a.ypos&&0===a.xpos?(e.style.bottom="45",e.style.left="0"):50===a.ypos&&50===a.xpos&&(a.debug&&console.log("watermark: player:"+i.width+"x"+i.height),a.debug&&console.log("watermark: video:"+s.videoWidth+"x"+s.videoHeight),a.debug&&console.log("watermark: image:"+r.width+"x"+r.height),e.style.top=this.height()/2+"px",e.style.left=this.width()/2+"px"),e.style.opacity=a.opacity,a.clickable&&""!==a.url?((p=document.createElement("a")).href=a.url,p.target="_blank",p.appendChild(e),i.appendChild(p)):i.appendChild(e),a.debug&&console.log("watermark: Register end")})}();
       var player = videojs('player_webtv');
             player.play();
-    </script>  
+    </script>
+	<center>
+    <script type="text/javascript">
+	atOptions = {
+		'key' : '61f2a98a31384198f4a5ad0b76091368',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/61f2a98a31384198f4a5ad0b76091368/invoke.js"></script>
+</center>
 </body>
   </html>

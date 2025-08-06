@@ -131,7 +131,7 @@
     <div id="content">
       <video id="my_video_1" class="video-js overrideNative vjs-default-skin videojs-hls-quality-selector
         vjs-big-play-centered" controls preload="auto" width="100%" height="100%" data-setup="{}">
-            <source src="http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/54.m3u8" type="application/x-mpegURL">
+            <source src="https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8" type="application/x-mpegURL">
       </video>
 
   </div>
@@ -248,7 +248,7 @@
             setInterval(function () {
                 $.ajax({
                     type: 'GET',
-                    url: 'http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/54.m3u8',
+                    url: '',
                     success: function (data) {
                         let viewer = data.viewers;
                         $('.viewer_count').html(" " + viewer);
@@ -272,5 +272,6 @@
 </center>
 </body>
 </html>
+
 
 

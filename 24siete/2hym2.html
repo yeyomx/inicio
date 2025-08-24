@@ -1,47 +1,31 @@
-<!DOCTYPE HTML>
-<html>
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  
-          <meta name="author" content="canal2">
-<meta name="description" content="señal en vivo canal 2 - Cali, Valle del Cauca, Colombia - Video Steaming">
-<meta name="apple-touch-fullscreen" content="yes">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
-  <script type="text/javascript" charset="utf-8" src="https://virtualtronics.com/streaming/video/canal2/js/virtualtronics.min.js"></script>
-  <script type="text/javascript" charset="utf-8" src="https://virtualtronics.com/streaming/video/canal2/js/virtualtronics-sel.min.js"></script>
-  <title>Señal en Vivo  - Canal2</title>
-  <script type="text/javascript" charset="utf-8">
-  window.onload = function() {
-  var player = new Clappr.Player({
-    source: 'http://netlevel.online:8080/granAve/J3Z3mKUFMLWh/177379.m3u8',
-    parentId: '#virtualtronics',
-    plugins: {
-      core: [LevelSelector],
-    },
-    width: '100%', height: 600,
-    hideMediaControl: false,
-    autoPlay: true,
-    hlsjsConfig: {
-        "maxBufferLength": 30,
-        "maxMaxBufferLength": 600,
-        "maxBufferSize": 60000000,
-        "maxBufferHole": 0.3
-    },    
-  });
-}
-  </script>
 <style type="text/css">
 <!--
 body {
 	background-color: #000000;
 }
 -->
-</style></head>
-<body>
-  <div align="center">
-    <div id="virtualtronics">
-  </div>
-  </div>
-</body>
-</html>
+</style>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <video id="video" controls></video>
+    <script>
+    if(Hls.isSupported())
+    {
+        var video = document.getElementById('video');
+        var hls = new Hls();
+        hls.loadSource('http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/9430.m3u8');
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED,function()
+        {
+            video.play();
+        });
+    }
+    else if (video.canPlayType('application/vnd.apple.mpegurl'))
+    {
+        video.src = 'http://195.66.210.10:80/granAve/J3Z3mKUFMLWh/9430.m3u8';
+        video.addEventListener('canplay',function()
+        {
+            video.play();
+        });
+    } 
+    </script>
+</center>

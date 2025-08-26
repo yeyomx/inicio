@@ -1,4 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Como antes
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
+#EXTINF:-1, ORIGEN TV.
+https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w1730417396.m3u8
 

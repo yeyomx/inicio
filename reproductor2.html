@@ -20,13 +20,13 @@ body {
 -->
 </style>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <video id="video" controls></video>
+    <video id="video" width="440" height="260" controls></video>
     <script>
-    if(Hls.isSupported())
+    if(Hls.isSupported()) 
     {
         var video = document.getElementById('video');
         var hls = new Hls();
-        hls.loadSource('http://104.238.205.28:8989/278364_.m3u8');
+        hls.loadSource('http://38.252.238.18:8000/play/a022/index.m3u8');
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED,function()
         {
@@ -35,7 +35,7 @@ body {
     }
     else if (video.canPlayType('application/vnd.apple.mpegurl'))
     {
-        video.src = 'https://cnn.essastream.com:3333/live/cromtvlive.m3u8';
+        video.src = 'http://38.252.238.18:8000/play/a022/index.m3u8';
         video.addEventListener('canplay',function()
         {
             video.play();

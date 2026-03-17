@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>demo</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+}
+-->
+</style></head>
+
+<body>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <video id="video"  width="100%" height="100%" controls></video>
+    <script>
+    if(Hls.isSupported()) 
+    {
+        var video = document.getElementById('video');
+        var hls = new Hls();
+        hls.loadSource('https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8');
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED,function()
+        {
+            video.play();
+        });
+    }
+    else if (video.canPlayType('application/vnd.apple.mpegurl'))
+    {
+        video.src = '';
+        video.addEventListener('canplay',function()
+        {
+            video.play();
+        });
+    } 
+    </script>
+	
+</body>
+</html>

@@ -264,23 +264,6 @@
 
 
 
-    <script>
-        $(function () {
-            // update viewer numbers
-            setInterval(function () {
-                $.ajax({
-                    type: 'GET',
-                    url: 'https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w1730417396.m3u8',
-                    success: function (data) {
-                        let viewer = data.viewers;
-                        $('.viewer_count').html(" " + viewer);
-                    }
-                });
-            }, 20000);
-
-        });
-    </script>
-	
 	<center>
     <script type="text/javascript">
 	atOptions = {

@@ -76,3 +76,39 @@ http://131.100.49.73:8003/play/a028/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGR0Pe9yAqcJxzb2t8wLzyAVRGflkcXaC-8mEuCwukw&s=10",CESAR MILLAN
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLz3Q2InxZwlBiTSHg0iY2Pv0PvrM_JeYvvvgF7YywpANO74KWtYcNVzY&s=10",ESPN PREMIUM
+http://200.4.241.75:8001/play/a078/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/espnw.png",ESPN
+http://190.60.59.60:8000/play/a0ti/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/espn2w.png",ESPN 2
+http://190.60.59.60:8000/play/a0sd/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/espn3w.png",ESPN 3
+http://190.60.59.60:8000/play/a0ss/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/espn4w.png",ESPN 4
+http://190.60.59.60:8000/play/a0ur/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/espn5w.png",ESPN 5
+http://190.60.59.60:8000/play/a0se/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/espn6w.png",ESPN 6
+http://190.60.59.60:8000/play/a0s7/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/espn7w.png",ESPN 7
+http://190.60.59.60:8000/play/a0uk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/tntspw.png",TNT SPORTS PREMIUM
+http://190.60.59.60:8000/play/a0t9/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/tntsw.png",TNT SPORTS
+http://190.60.59.60:8000/play/a0s4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/main/jpg/png/movistardeportes.png",M DEPORTES
+http://200.4.241.75:8001/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/n1maxmw.png",L1 MAX
+http://190.60.59.60:8000/play/a0sv/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://foxone.asset.viewlift.com/images/2026/02/19/FASTCHANNEL-FOX-1771516241667.png?impolicy=resize&w=1920&h=1080",FOX
+http://186.33.26.18:8000/play/a0pp/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/main/jpg/tudn.png",TUDN
+http://186.33.26.18:8000/play/a0r4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI48wf2xsdGcoYSadY1ieyIEqZliE8SRE0ZWWgwfPxZA&s=10",FOX SPORTS
+http://186.33.26.18:8000/play/a0rs/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png",FOX SPORTS 2
+http://186.33.26.18:8000/play/a0rt/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/media/FL0X7bDXEAYcy_G.jpg",FOX SPORTS 3
+http://186.33.26.18:8000/play/a0rw/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06_ybSU7LSSS8pB-XHmxayJK_z7PVvr46uDIwsNhBVA&s=10",ECDF
+http://181.119.185.32:8000/play/a002/index.m3u8

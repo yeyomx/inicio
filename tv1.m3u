@@ -48,7 +48,7 @@ http://186.33.26.18:8000/play/a0lb/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_d2XTIj-hv_lIPAMFigStpCy_28fXyImPRkKr8Ocdlw&s=10",SONY CHANNEL
 http://186.33.26.18:8000/play/a0qc/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/sonymov.png",SONY MOVIES
-http://181.78.8.199:8000/play/a0ap/index.m3u8
+http://45.5.118.152:8000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/sonycine.png",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/warner.png",WARNER

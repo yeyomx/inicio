@@ -125,3 +125,16 @@ https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8uh9bB6jwnkWEIDwMPyKAVEP35bzmUPIcfFZda6xHSxqmlsrl3nkVd_w&s=10",CN CITY
 https://envivo.cncity.live/hls/envivo.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRviFsEkfczXL02G5uOs13owyxTVrBPq_YRJOYCbuFVDM0u7MeohNtNLXfx&s=10",ETC
+http://200.4.241.75:8001/play/a0en/index.m3u8
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,78 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/azinw.png",AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/azunomenw.png",AZUNO -1 H
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/azunow.png",AZ UNO
+http://187.245.231.227:8000/play/a0ux/index.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/lasestrellasw.png",LAS ESTRELLAS
+http://181.119.177.253:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/telediariow.png",TELEDIARIO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A//www.canela.tv/devices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https://www.canela.tv/es/linear/telediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web%C3%97tamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa0
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/canal5w.png",CANAL 5
+http://187.245.231.227:8000/play/a0uu/index.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/6multimediosw.png",6 MULTIMEDIOS
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/imagentvw.png", IMAGEN TV
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/az7w.png", AZ 7
+http://187.245.231.227:8000/play/a0uz/index.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/oncetvw.png", ONCE TV
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/14mxw.png", CATORCE TV
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/22mxw.png", CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w522180814.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/adn40w.png", ADN NOTICIAS
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/milenotvw.png", MILENIO TV
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/amxnw.png", AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png2/aez.png",A&E
+http://186.33.26.18:8000/play/a0nz/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/axn.png",AXN
+http://186.33.26.18:8000/play/a0qk/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png2/amc.png",AMC
+http://186.33.26.18:8000/play/a0o1/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png2/cinecanal.png",CINE CANAL
+http://186.33.26.18:8000/play/a0o2/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/space.png",SPACE
+http://186.33.26.18:8000/play/a0sz/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png2/cinemax.png",CINEMAX
+http://186.33.26.18:8000/play/a0rl/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/starch.png",STAR CHANNEL
+http://186.33.26.18:8000/play/a0lb/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_d2XTIj-hv_lIPAMFigStpCy_28fXyImPRkKr8Ocdlw&s=10",SONY CHANNEL
+http://186.33.26.18:8000/play/a0qc/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/sonymov.png",SONY MOVIES
+http://187.245.231.227:8000/play/a0mg/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/sonycine.png",SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/warner.png",WARNER
+http://187.245.231.227:8000/play/a0ny/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/studiou.png",STUDIO
+http://186.33.26.18:8000/play/a0ln/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/universaltv.png",UNIVERSAL
+http://186.33.26.18:8000/play/a0o3/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/tnt.png",TNT
+http://186.33.26.18:8000/play/a0rn/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/tntseries.png",TNT SERIES
+http://186.33.26.18:8000/play/a0l8/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/multipremier.png",MULTI PREMIER
+http://186.33.26.18:8000/play/a0lq/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/hbo.png",HBO
+http://131.100.49.73:8003/play/a02e/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/HBO2.png",HBO 2
+http://200.71.111.107:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/hbofamilyar.png",HBO FAMILY
+http://187.245.231.227:8000/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/hboxtreme.png",HBO XTREME
+http://187.245.231.227:8000/play/a0mu/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/comedycentral.png",COMEDY CENTRAL
+http://131.100.49.73:8003/play/a028/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGR0Pe9yAqcJxzb2t8wLzyAVRGflkcXaC-8mEuCwukw&s=10",CESAR MILLAN
+https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+

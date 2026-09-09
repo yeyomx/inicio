@@ -116,12 +116,12 @@ http://181.119.185.32:8000/play/a002/index.m3u8
 http://45.5.118.152:8000/play/a08u/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3J1jVyITUmH4aIw8J3Fy9K8Vd19V1cEQzDJMcQ-yG&s=10",CLARO SPORTS 2
 http://45.5.118.152:8000/play/a0ah/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3J1jVyITUmH4aIw8J3Fy9K8Vd19V1cEQzDJMcQ-yG&s=10",ADULT SWIM
+
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://ih1.redbubble.net/image.2443489826.6602/st,extra_large,507x507-pad,600x600,f8f8f8.webp",ADULT SWIM
 http://186.33.26.18:8000/play/a0st/index.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPmo7KFlvzVBYDOq4pW3Ku0IJPb6pGysyAYOdrRbeTA&s=10",ANIME STATION
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_CHfYaowgCC4sFdM3iw_-zgVZltXi9Kf7dvxJkX-pQ&s=10",TALTA ANIME
+https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8uh9bB6jwnkWEIDwMPyKAVEP35bzmUPIcfFZda6xHSxqmlsrl3nkVd_w&s=10",CN CITY
+https://envivo.cncity.live/hls/envivo.m3u8

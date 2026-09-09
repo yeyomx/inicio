@@ -112,3 +112,16 @@ http://186.33.26.18:8000/play/a0rt/index.m3u8
 http://186.33.26.18:8000/play/a0rw/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06_ybSU7LSSS8pB-XHmxayJK_z7PVvr46uDIwsNhBVA&s=10",ECDF
 http://181.119.185.32:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/webster/main/clarosports.png",CLARO SPORTS
+http://45.5.118.152:8000/play/a08u/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3J1jVyITUmH4aIw8J3Fy9K8Vd19V1cEQzDJMcQ-yG&s=10",CLARO SPORTS 2
+http://45.5.118.152:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3J1jVyITUmH4aIw8J3Fy9K8Vd19V1cEQzDJMcQ-yG&s=10",ADULT SWIM
+http://186.33.26.18:8000/play/a0st/index.m3u8
+
+
+
+
+
+
+

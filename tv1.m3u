@@ -103,7 +103,7 @@ http://200.4.241.75:8001/play/a0ei/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/n1maxmw.png",L1 MAX
 http://190.60.59.60:8000/play/a0sv/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://foxone.asset.viewlift.com/images/2026/02/19/FASTCHANNEL-FOX-1771516241667.png?impolicy=resize&w=1920&h=1080",FOX
-http://186.33.26.18:8000/play/a0pp/index.m3u8
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/main/jpg/tudn.png",TUDN
 http://186.33.26.18:8000/play/a0r4/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI48wf2xsdGcoYSadY1ieyIEqZliE8SRE0ZWWgwfPxZA&s=10",FOX SPORTS

@@ -77,6 +77,8 @@ http://131.100.49.73:8003/play/a028/index.m3u8
 http://138.59.177.78:9999/play/a0ly/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGR0Pe9yAqcJxzb2t8wLzyAVRGflkcXaC-8mEuCwukw&s=10",CESAR MILLAN
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGR0Pe9yAqcJxzb2t8wLzyAVRGflkcXaC-8mEuCwukw&s=10",DEMO
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLz3Q2InxZwlBiTSHg0iY2Pv0PvrM_JeYvvvgF7YywpANO74KWtYcNVzY&s=10",ESPN PREMIUM
 http://200.4.241.75:8001/play/a078/index.m3u8

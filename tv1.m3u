@@ -9,7 +9,7 @@ http://187.245.231.227:8000/play/a0ux/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/lasestrellasw.png",LAS ESTRELLAS
 http://181.119.177.253:8000/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/webster/refs/heads/main/forotv.png",FORO TV
-http://45.189.151.7:8000/play/a06l
+http://190.234.82.52:8000/play/a0md/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/png/canal5w.png",CANAL 5
 http://187.245.231.227:8000/play/a0uu/index.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/6multimediosw.png",6 MULTIMEDIOS
@@ -71,6 +71,10 @@ http://200.71.111.107:8000/play/a0ct/index.m3u8
 http://187.245.231.227:8000/play/a0mt/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/hboxtreme.png",HBO XTREME
 http://187.245.231.227:8000/play/a0mu/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d3/Hbomundi.png/revision/latest/scale-to-width-down/1200?cb=20200216144600&path-prefix=pt-br",HBO MUNDI
+http://190.234.82.52:8000/play/a0pn/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSouqAFnhphGO_8EB4ZPdjnNZI3clT-xYEpAQxGOZLKWQ&s=10",HBO POP
+http://190.234.82.52:8000/play/a0kb/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/comedycentral.png",COMEDY CENTRAL
 http://131.100.49.73:8003/play/a028/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTialXWFEtYMpV4bFoCwZBL5x8r5uyHNUyOrS3i2yvdM__Jhrvpx5YamvM&s=10",GOLDEN
@@ -79,6 +83,9 @@ http://138.59.177.78:9999/play/a0ly/index.m3u8
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGR0Pe9yAqcJxzb2t8wLzyAVRGflkcXaC-8mEuCwukw&s=10",DEMO
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.utdstc.com/icon/2be/ad9/2bead97da4e4ecd417a254ec6b58b82d342abba793c932a94c976df2f7c9cf71:600",DIRECTV SPORTS
+http://190.234.82.52:8000/play/c4pn/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLz3Q2InxZwlBiTSHg0iY2Pv0PvrM_JeYvvvgF7YywpANO74KWtYcNVzY&s=10",ESPN PREMIUM
 http://200.4.241.75:8001/play/a078/index.m3u8

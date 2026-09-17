@@ -47,8 +47,6 @@ http://186.33.26.18:8000/play/a0o2/index.m3u8
 http://186.33.26.18:8000/play/a0sz/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png2/cinemax.png",CINEMAX
 http://186.33.26.18:8000/play/a0rl/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/starch.png",STAR CHANNEL
-http://190.234.82.52:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_d2XTIj-hv_lIPAMFigStpCy_28fXyImPRkKr8Ocdlw&s=10",SONY CHANNEL
 http://186.33.26.18:8000/play/a0qc/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/sonymov.png",SONY MOVIES
@@ -166,6 +164,8 @@ http://138.59.177.78:9999/play/a093/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10", DISNEY JR
 http://138.59.177.78:9999/play/a00o/index.m3u8
 
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/starch.png",STAR CHANNEL
+http://190.234.82.52:8000/play/a0l4/index.m3u8
 
 
 

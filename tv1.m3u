@@ -76,7 +76,7 @@ http://200.71.111.107:8000/play/a0ct/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/mundolatino/refs/heads/main/jpg/hbofamilyar.png",HBO FAMILY
 http://179.0.104.255:8010/play/a01n/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://raw.githubusercontent.com/yeyomx/inicio/refs/heads/main/png/hboxtreme.png",HBO XTREME
-http://187.245.231.227:8000/play/a0mu/index.m3u8
+http://179.0.104.255:8010/play/a01o/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d3/Hbomundi.png/revision/latest/scale-to-width-down/1200?cb=20200216144600&path-prefix=pt-br",HBO MUNDI
 http://190.234.82.52:8000/play/a0pn/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSouqAFnhphGO_8EB4ZPdjnNZI3clT-xYEpAQxGOZLKWQ&s=10",HBO POP

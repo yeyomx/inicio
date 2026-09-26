@@ -201,10 +201,11 @@ https://lbgo.bozztv.com/ssh101/ssh101/myevent2025/playlist.m3u8
 https://janimotion.com/hls/janimotion/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="INFANTILES",Locomotion 2
 http://146.19.49.197:81/live/loco_low/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPmo7KFlvzVBYDOq4pW3Ku0IJPb6pGysyAYOdrRbeTA&s=10" group-title="INFANTILES",ANIME STATION
 https://lbgo.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",Punto TV
+https://ssh101.com/securelive/index.php?id=tv2024
 
 
 

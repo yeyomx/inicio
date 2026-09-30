@@ -215,6 +215,8 @@ https://janimotion.com/hls/janimotion/index.m3u8
 http://146.19.49.197:81/live/loco_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPmo7KFlvzVBYDOq4pW3Ku0IJPb6pGysyAYOdrRbeTA&s=10" group-title="INFANTILES",ANIME STATION
 https://lbgo.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPmo7KFlvzVBYDOq4pW3Ku0IJPb6pGysyAYOdrRbeTA&s=10" group-title="INFANTILES",BITME 2
+https://canales-con-comerciales.elmanuchale.workers.dev/bitme/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",ENT CHANNEL
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
@@ -264,6 +266,11 @@ https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",LA REINA
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",FENIX MIX
+https://canales-con-comerciales.elmanuchale.workers.dev/fenixmix/live.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",FENIX MIX
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",MI TV CLASICA
 https:mitv.//getstreamhosting.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",BEST CLASICOS TV

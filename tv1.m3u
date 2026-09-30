@@ -216,10 +216,56 @@ http://146.19.49.197:81/live/loco_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPmo7KFlvzVBYDOq4pW3Ku0IJPb6pGysyAYOdrRbeTA&s=10" group-title="INFANTILES",ANIME STATION
 https://lbgo.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",TELE CLASICA
-https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",ENT CHANNEL
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",ENT FAMILY
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",E MAX TV
+http://186.33.26.18:8000/play/a0rr/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",TAGUERITOS
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",ATACAMA
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",GI TV
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",SUPER CANAL
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",CANAL 21 TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",20 CONO SUR
+https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",TV TRES
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",CASCARA TV
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",ROMANA TV
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",TURISMO
+https://live20.bozztv.com/giatvplayout7/giatv-208343/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",AGUILA TV
+https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",ALCARRIZOS TV
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",AME TV
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",DTV
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",CENOVISION
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",CLAROTV
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",LA DESCARGA
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",CROM
+https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",EL PITUCO
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",JIMANI TV
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",LA REINA
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",MI TV CLASICA
-https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
+https:mitv.//getstreamhosting.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",BEST CLASICOS TV
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",RETRO PALAMRES
@@ -246,57 +292,5 @@ https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 https://stream.inliveserver.com:19360/8004/8004.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

@@ -311,4 +311,10 @@ https://lbgo.bozztv.com/ssh101/ssh101/ctv8hd/chunks.m3u8?lb_backend_hint=7
 https://live20.bozztv.com/akamaissh101/ssh101/canalvariado4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",VARIEDAD TV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",MIX BOLIVIA
+https://live20.bozztv.com/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",CONSUELO TV
+https://live20.bozztv.com/akamaissh101/ssh101/ysmavision/chunks.m3u8
+
+
 

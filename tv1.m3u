@@ -299,5 +299,16 @@ https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 https://stream.inliveserver.com:19360/8004/8004.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",BOLIVIA TV
+https://live20.bozztv.com/akamaissh101/ssh101/tv2024/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",RETRO PLUS
+https://live20.bozztv.com/akamaissh101/ssh101/liveretroplustv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",IMPERIO TV
+https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",CONSTANZA TV
+https://lbgo.bozztv.com/ssh101/ssh101/ctv8hd/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",LMS
+https://live20.bozztv.com/akamaissh101/ssh101/canalvariado4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTRAxHkHfeaHIB37A-t1WaE7_m0SYeCA6-3j19_XCXw&s=10" group-title="PELIS 24/7",VARIEDAD TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
